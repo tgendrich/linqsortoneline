@@ -1,0 +1,13 @@
+C:\Users\Thomas\source\repos\linqsort\linqsortwork\linqsortwork\bin\Debug\netcoreapp3.1\linqsortwork.exe
+C:\Users\Thomas\source\repos\linqsort\linqsortwork\linqsortwork\bin\Debug\netcoreapp3.1\linqsortwork.deps.json
+C:\Users\Thomas\source\repos\linqsort\linqsortwork\linqsortwork\bin\Debug\netcoreapp3.1\linqsortwork.runtimeconfig.json
+C:\Users\Thomas\source\repos\linqsort\linqsortwork\linqsortwork\bin\Debug\netcoreapp3.1\linqsortwork.runtimeconfig.dev.json
+C:\Users\Thomas\source\repos\linqsort\linqsortwork\linqsortwork\bin\Debug\netcoreapp3.1\linqsortwork.dll
+C:\Users\Thomas\source\repos\linqsort\linqsortwork\linqsortwork\bin\Debug\netcoreapp3.1\linqsortwork.pdb
+C:\Users\Thomas\source\repos\linqsort\linqsortwork\linqsortwork\obj\Debug\netcoreapp3.1\linqsortwork.csproj.AssemblyReference.cache
+C:\Users\Thomas\source\repos\linqsort\linqsortwork\linqsortwork\obj\Debug\netcoreapp3.1\linqsortwork.AssemblyInfoInputs.cache
+C:\Users\Thomas\source\repos\linqsort\linqsortwork\linqsortwork\obj\Debug\netcoreapp3.1\linqsortwork.AssemblyInfo.cs
+C:\Users\Thomas\source\repos\linqsort\linqsortwork\linqsortwork\obj\Debug\netcoreapp3.1\linqsortwork.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\linqsort\linqsortwork\linqsortwork\obj\Debug\netcoreapp3.1\linqsortwork.dll
+C:\Users\Thomas\source\repos\linqsort\linqsortwork\linqsortwork\obj\Debug\netcoreapp3.1\linqsortwork.pdb
+C:\Users\Thomas\source\repos\linqsort\linqsortwork\linqsortwork\obj\Debug\netcoreapp3.1\linqsortwork.genruntimeconfig.cache
